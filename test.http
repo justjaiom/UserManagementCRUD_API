@@ -1,0 +1,26 @@
+### Get All Users
+GET http://localhost:5236/api/users
+
+### Get User by ID
+GET http://localhost:5236/api/users/1
+
+### Create New User
+POST http://localhost:5236/api/users
+Content-Type: application/json
+
+{
+  "name": "New User",
+  "email": "newuser@example.com"
+}
+
+### Update Existing User
+PUT http://localhost:5236/api/users/1
+Content-Type: application/json
+
+{
+  "name": "Updated User",
+  "email": "updateduser@example.com"
+}
+
+### Delete User
+DELETE http://localhost:5236/api/users/1
