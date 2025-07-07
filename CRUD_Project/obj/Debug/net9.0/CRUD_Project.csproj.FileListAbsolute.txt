@@ -26,3 +26,4 @@
 /Users/jaiomrola/Development/CRUD_Project/CRUD_Project/obj/Debug/net9.0/CRUD_Project.pdb
 /Users/jaiomrola/Development/CRUD_Project/CRUD_Project/obj/Debug/net9.0/CRUD_Project.genruntimeconfig.cache
 /Users/jaiomrola/Development/CRUD_Project/CRUD_Project/obj/Debug/net9.0/ref/CRUD_Project.dll
+/Users/jaiomrola/Development/CRUD_Project/CRUD_Project/obj/Debug/net9.0/CRUD_Project.sourcelink.json
