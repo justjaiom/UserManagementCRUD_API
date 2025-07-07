@@ -46,10 +46,6 @@ The API catches unhandled exceptions and returns consistent error responses usin
 
 This project was completed as part of the [Coursera - ASP.NET Core API Development](https://www.coursera.org/learn/back-end-development-with-dotnet) course. You can view my certificate [here](https://www.coursera.org/user/69b8f74521178e1b3c2af0a530fdaad4).
 
-### License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ### Acknowledgments
 
 I would like to thank Coursera and the instructors of the ASP.NET Core API Development course for providing the opportunity to learn and complete this project.
